@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>BIODATA</title>
+</head>
+<body bgcolor="white"><center><font color="black">
+<font size=30>BIODATA</font></center>
+<hr>
+<body><font size=2><font color="Dark Red">
+<img src="Me.jpg"align="right"height=150"width=150 1px>
+Name:Megha<br>
+Fathers name:Stalin<br>
+DOB:4/12/2003<br>
+Address:Kollemcode<br>
+Mob no:9791011703<br>
+Religion:christian<br>
+Nationality:Indian<br>
+Gender:Female<br>
+Qualification:Computer Science<br>
+<table border=2>
+<tr>
+<th>semester</th>
+<th>Grade</th>
+<th>Percentage(%)</th>
+</tr>
+<tr>
+<th>1</th>
+<th>A+</th>
+<th>80%</th>
+</tr>
+<tr>
+<th>2</th>
+<th>A</th>
+<th>78%</th>
+</tr>
+<tr>
+<th>3</th>
+<th>O</th>
+<th>90%</th>
+</tr>
+<tr>
+<th>4</th>
+<th>A+</th>
+<th>80%</th>
+</tr>
+</body>
+</html>
+
